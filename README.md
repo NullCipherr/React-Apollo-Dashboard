@@ -1,6 +1,4 @@
 <div align="center">
-  <img width="1200" height="475" alt="Apollo 11 Simulator Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
   <h1>🚀 Apollo 11 Interactive Simulator</h1>
   <p><i>A professional Mission Control Dashboard for real-time lunar mission simulation</i></p>
 
